@@ -12,11 +12,6 @@ uploads to YouTube on a schedule. It was built for a GTA 6 channel, but the them
 Everything is free: Python, ffmpeg, yt-dlp and the free YouTube API quota. No paid service and no GPU are needed.
 No AI model is needed to run it either; moments are picked with plain audio and motion maths.
 
-> **Read this before you use it.** Clipping other people's videos can get your uploads claimed, blocked or your
-> channel struck, and "credit to the creator" is not permission. Downloading from YouTube may also break YouTube's
-> terms. ClipX records where every clip came from and refuses known publisher footage, but it cannot make reuse
-> legal. Use your own footage, footage you have permission for, or accept the risk knowingly.
-
 ---
 
 ## What it does, step by step
