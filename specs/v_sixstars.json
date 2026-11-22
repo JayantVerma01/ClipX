@@ -1,0 +1,95 @@
+{
+ "slug": "v_sixstars",
+ "kind": "video",
+ "src": "work/ORYwlJXszi4.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.95,
+ "title": [
+  "6 STARS",
+  "THE ARMY ARRIVES"
+ ],
+ "pieces": [
+  {
+   "s": 66,
+   "e": 90,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 106,
+   "e": 128,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 168,
+   "e": 190,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 278,
+   "e": 300,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 308,
+   "e": 326,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 334,
+   "e": 352,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "TANKS ON THE RUNWAY"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "EXPLOSIONS EVERYWHERE"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "FIGHTER JETS"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "ON THE GROUND"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE CHASE"
+  },
+  {
+   "p": 5,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE AFTERMATH"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

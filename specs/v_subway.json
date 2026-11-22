@@ -1,0 +1,95 @@
+{
+ "slug": "v_subway",
+ "kind": "video",
+ "src": "work/BgO-5PVOj5c.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.95,
+ "title": [
+  "SUBWAY",
+  "SHOOTOUT"
+ ],
+ "pieces": [
+  {
+   "s": 0,
+   "e": 25,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 75,
+   "e": 95,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 150,
+   "e": 175,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 185,
+   "e": 200,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 236,
+   "e": 255,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 300,
+   "e": 318,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "A QUIET DAY AT THE STATION"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "ON THE TRAIN"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "THEN GUNS COME OUT"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "LOCKED ON"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "TAKING COVER"
+  },
+  {
+   "p": 5,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE ESCAPE"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

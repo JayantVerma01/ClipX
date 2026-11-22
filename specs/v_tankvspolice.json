@@ -1,0 +1,82 @@
+{
+ "slug": "v_tankvspolice",
+ "kind": "video",
+ "src": "work/-UuHA1h-Cf8.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.95,
+ "title": [
+  "TANK VS 6 STARS",
+  "CAN IT SURVIVE?"
+ ],
+ "pieces": [
+  {
+   "s": 15,
+   "e": 40,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 335,
+   "e": 360,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 375,
+   "e": 400,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 460,
+   "e": 485,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 508,
+   "e": 533,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "ONE TANK. SIX STARS."
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE FIRST EXPLOSIONS"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "THEY KEEP COMING"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "ON THE RUN"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE FINAL STAND"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

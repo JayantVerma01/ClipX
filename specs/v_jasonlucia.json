@@ -1,0 +1,82 @@
+{
+ "slug": "v_jasonlucia",
+ "kind": "video",
+ "src": "work/bfY0coYanSg.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.95,
+ "title": [
+  "JASON & LUCIA",
+  "FIGHTS, FLIRTS & TROUBLE"
+ ],
+ "pieces": [
+  {
+   "s": 0,
+   "e": 22,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 60,
+   "e": 82,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 112,
+   "e": 132,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 148,
+   "e": 166,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 280,
+   "e": 300,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "A TENSE POOL HALL"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE NIGHT TURNS VIOLENT"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "THEN THE POLICE ARRIVE"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "KEEP MOVING"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE CHEMISTRY IN THE KITCHEN"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

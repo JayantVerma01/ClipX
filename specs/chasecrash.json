@@ -1,0 +1,104 @@
+{
+ "slug": "chasecrash",
+ "kind": "short",
+ "src": "work/9TLwyuGDSmI.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "POLICE CHASE",
+  "GONE WRONG"
+ ],
+ "pieces": [
+  {
+   "s": 197.0,
+   "e": 199.0,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 186,
+   "e": 204,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 144,
+   "e": 156,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 336,
+   "e": 346,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 2.2,
+   "text": "FULL SPEED"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.4,
+   "text": "NOTHING CAN STOP HIM"
+  },
+  {
+   "p": 1,
+   "t": 8,
+   "d": 2.4,
+   "text": "STRAIGHT THROUGH TRAFFIC"
+  },
+  {
+   "p": 1,
+   "t": 14,
+   "d": 2.6,
+   "text": "THEN HE BAILS OUT"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 2,
+   "text": "ROUND TWO"
+  },
+  {
+   "p": 2,
+   "t": 6,
+   "d": 2.6,
+   "text": "COPS EVERYWHERE"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 2.4,
+   "text": "THE CHASE GOES ON"
+  },
+  {
+   "p": 3,
+   "t": 6,
+   "d": 2.6,
+   "text": "THIS IS GTA 6"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "slug": "nightfight",
+ "kind": "short",
+ "src": "work/bfY0coYanSg.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "NIGHT FIGHT",
+  "IN VICE CITY"
+ ],
+ "pieces": [
+  {
+   "s": 72.0,
+   "e": 74.0,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 60,
+   "e": 80,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 112,
+   "e": 132,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 1.8,
+   "text": "ONE SWING"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.2,
+   "text": "A NORMAL NIGHT"
+  },
+  {
+   "p": 1,
+   "t": 6,
+   "d": 3.0,
+   "text": "THEN THE WHOLE YARD EXPLODES"
+  },
+  {
+   "p": 1,
+   "t": 14,
+   "d": 2.6,
+   "text": "EVERYONE JOINS IN"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 2.0,
+   "text": "ROUND TWO"
+  },
+  {
+   "p": 2,
+   "t": 7,
+   "d": 2.4,
+   "text": "FISTS EVERYWHERE"
+  },
+  {
+   "p": 2,
+   "t": 12.5,
+   "d": 3.0,
+   "text": "THEN THE COPS SHOW UP"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

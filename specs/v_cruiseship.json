@@ -1,0 +1,95 @@
+{
+ "slug": "v_cruiseship",
+ "kind": "video",
+ "src": "work/OnWC__OxyTk.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.95,
+ "title": [
+  "CRUISE SHIP",
+  "MAYHEM"
+ ],
+ "pieces": [
+  {
+   "s": 5,
+   "e": 25,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 40,
+   "e": 60,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 105,
+   "e": 125,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 130,
+   "e": 150,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 181.7,
+   "e": 195,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 215,
+   "e": 232,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "BOARDING THE SHIP"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "ROOFTOP PARKOUR"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "A HELICOPTER ON DECK"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "NO ONE IS SAFE"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "FIGHT ON DECK"
+  },
+  {
+   "p": 5,
+   "t": 0.5,
+   "d": 3,
+   "text": "SHOTS FIRED"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

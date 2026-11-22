@@ -1,0 +1,98 @@
+{
+ "slug": "cruiseship",
+ "kind": "short",
+ "src": "work/OnWC__OxyTk.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "CRUISE SHIP",
+  "MAYHEM"
+ ],
+ "pieces": [
+  {
+   "s": 186.0,
+   "e": 188.0,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 181.7,
+   "e": 191,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 107,
+   "e": 121,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 43,
+   "e": 57,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 2.2,
+   "text": "FIGHT ON DECK"
+  },
+  {
+   "p": 1,
+   "t": 0.4,
+   "d": 2.6,
+   "text": "A CRUISE SHIP. NO RULES."
+  },
+  {
+   "p": 1,
+   "t": 4.5,
+   "d": 3.0,
+   "text": "CREW MEMBERS FIGHT BACK"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3.0,
+   "text": "THEN A HELICOPTER SHOWS UP"
+  },
+  {
+   "p": 2,
+   "t": 8,
+   "d": 2.4,
+   "text": "LANDING ON THE ROOF"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 2.2,
+   "text": "ROOFTOP PARKOUR"
+  },
+  {
+   "p": 3,
+   "t": 7,
+   "d": 2.4,
+   "text": "ONE WRONG STEP"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "sens_firstnight",
+ "kind": "short",
+ "src": "work/ID-C0E_DidA.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "JASON MEETS",
+  "LUCIA"
+ ],
+ "vcrop": 0.8,
+ "vy": 0.12,
+ "pieces": [
+  {
+   "s": 153.0,
+   "e": 155.0,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 112,
+   "e": 140,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 148,
+   "e": 157,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 2.0,
+   "text": "THAT LOOK"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.8,
+   "text": "A STOLEN CAR. A STRANGER."
+  },
+  {
+   "p": 1,
+   "t": 8,
+   "d": 3.0,
+   "text": "TWO PEOPLE WHO JUST MET"
+  },
+  {
+   "p": 1,
+   "t": 16,
+   "d": 2.6,
+   "text": "THE TENSION IS REAL"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 2.6,
+   "text": "SHE IS NOT SCARED"
+  },
+  {
+   "p": 2,
+   "t": 4.5,
+   "d": 3.4,
+   "text": "LET'S GO HAVE SOME FUN"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

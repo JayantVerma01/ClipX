@@ -1,0 +1,100 @@
+{
+ "slug": "sens_yacht",
+ "kind": "short",
+ "src": "work/boNEXq35Hg0.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "YACHT DAY",
+  "GOLDEN HOUR"
+ ],
+ "vcrop": 0.8,
+ "vy": 0.3,
+ "pieces": [
+  {
+   "s": 265.0,
+   "e": 267.0,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 264,
+   "e": 290,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 297,
+   "e": 310,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 335,
+   "e": 346,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 2.4,
+   "text": "GOLDEN HOUR HITS DIFFERENT"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.6,
+   "text": "A YACHT. A SUNSET."
+  },
+  {
+   "p": 1,
+   "t": 8,
+   "d": 2.4,
+   "text": "GOOD VIBES ONLY"
+  },
+  {
+   "p": 1,
+   "t": 16,
+   "d": 2.8,
+   "text": "NOBODY'S IN A HURRY"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3.2,
+   "text": "THE CONVERSATION GETS INTERESTING"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 2.8,
+   "text": "ONE LAST LOOK AT THE CITY"
+  },
+  {
+   "p": 3,
+   "t": 6,
+   "d": 2.8,
+   "text": "WELCOME TO VICE CITY"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

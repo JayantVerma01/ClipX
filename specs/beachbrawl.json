@@ -1,0 +1,19 @@
+{"slug":"beachbrawl","kind":"short","src":"work/gPCd2SD5X3k.mp4","tag":"GTA 6","layout":"tall",
+ "title":["ONE MAN","VS THE ENTIRE BEACH"],
+ "pieces":[
+  {"s":438.0,"e":440.0,"speed":0.5,"cx":0.45,"zoom":"in"},
+  {"s":416.0,"e":438.0,"cx":0.45,"zoom":"out","tr":"whip"},
+  {"s":701.0,"e":721.0,"cx":0.45,"zoom":"in","tr":"fade"},
+  {"s":721.0,"e":724.0,"cx":0.5,"zoom":"in","tr":"fade"}],
+ "caps":[
+  {"p":0,"t":0.3,"d":2.2,"text":"ONE PUNCH"},
+  {"p":1,"t":0.6,"d":2.4,"text":"IT STARTED WITH A PUSH"},
+  {"p":1,"t":5.0,"d":2.2,"text":"THEN IT SPREAD"},
+  {"p":1,"t":10.0,"d":2.2,"text":"NO ONE WAS SAFE"},
+  {"p":1,"t":16.0,"d":2.4,"text":"FISTS EVERYWHERE"},
+  {"p":2,"t":0.5,"d":1.8,"text":"ROUND TWO"},
+  {"p":2,"t":6.0,"d":2.6,"text":"THE WHOLE BEACH WATCHED"},
+  {"p":2,"t":13.0,"d":2.4,"text":"NPCS REACT FOR REAL"},
+  {"p":3,"t":0.3,"d":2.4,"text":"WELCOME TO GTA 6"}],
+ "flash":[{"p":1,"t":0.0}],
+ "sfx":[{"p":0,"t":0.05,"k":"impact"},{"p":3,"t":0.0,"k":"impact"}]}

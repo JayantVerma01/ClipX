@@ -1,0 +1,158 @@
+{
+ "slug": "sens_vcafterdark",
+ "kind": "video",
+ "src": "work/RSy0UkR0JBs.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.8,
+ "vy": 0.3,
+ "title": [
+  "VICE CITY",
+  "AFTER DARK"
+ ],
+ "pieces": [
+  {
+   "src": "work/ID-C0E_DidA.mp4",
+   "s": 118,
+   "e": 140,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "src": "work/ID-C0E_DidA.mp4",
+   "s": 148,
+   "e": 157,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "src": "work/RSy0UkR0JBs.mp4",
+   "s": 181,
+   "e": 190,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "src": "work/RSy0UkR0JBs.mp4",
+   "s": 196,
+   "e": 208,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "src": "work/RSy0UkR0JBs.mp4",
+   "s": 229,
+   "e": 242,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "src": "work/boNEXq35Hg0.mp4",
+   "s": 159,
+   "e": 171,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "src": "work/boNEXq35Hg0.mp4",
+   "s": 178,
+   "e": 192,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "src": "work/boNEXq35Hg0.mp4",
+   "s": 264,
+   "e": 290,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "src": "work/boNEXq35Hg0.mp4",
+   "s": 297,
+   "e": 310,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "src": "work/boNEXq35Hg0.mp4",
+   "s": 335,
+   "e": 346,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "A STOLEN CAR. A STRANGER."
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "LET'S GO HAVE SOME FUN"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE DANCE FLOOR"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "SHE PULLS HIM CLOSER"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "THEN THE LIGHTS TURN RED"
+  },
+  {
+   "p": 5,
+   "t": 0.5,
+   "d": 3,
+   "text": "NINE1NINE AFTER DARK"
+  },
+  {
+   "p": 6,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE VIP LOUNGE"
+  },
+  {
+   "p": 7,
+   "t": 0.5,
+   "d": 3,
+   "text": "A YACHT. A SUNSET."
+  },
+  {
+   "p": 8,
+   "t": 0.5,
+   "d": 3,
+   "text": "GOLDEN HOUR HITS DIFFERENT"
+  },
+  {
+   "p": 9,
+   "t": 0.5,
+   "d": 3,
+   "text": "WELCOME TO VICE CITY"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

@@ -1,0 +1,98 @@
+{
+ "slug": "subwayshootout",
+ "kind": "short",
+ "src": "work/BgO-5PVOj5c.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "SUBWAY",
+  "SHOOTOUT"
+ ],
+ "pieces": [
+  {
+   "s": 194.0,
+   "e": 196.5,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 6,
+   "e": 16,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 152,
+   "e": 170,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 236,
+   "e": 250,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 2.2,
+   "text": "LOCKED ON"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.8,
+   "text": "A QUIET DAY AT THE STATION"
+  },
+  {
+   "p": 1,
+   "t": 5.5,
+   "d": 2.2,
+   "text": "UNTIL IT ISN'T"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 2.4,
+   "text": "THEN GUNS COME OUT"
+  },
+  {
+   "p": 2,
+   "t": 9,
+   "d": 2.4,
+   "text": "NO WAY OUT"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 2.2,
+   "text": "TAKING COVER"
+  },
+  {
+   "p": 3,
+   "t": 6,
+   "d": 2.6,
+   "text": "EVERY STEP COUNTS"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

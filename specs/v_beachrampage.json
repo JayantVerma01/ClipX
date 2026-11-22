@@ -1,0 +1,82 @@
+{
+ "slug": "v_beachrampage",
+ "kind": "video",
+ "src": "work/8-DRGbQ1IXc.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.9,
+ "title": [
+  "5-STAR RAMPAGE",
+  "VICE OCEAN BEACH"
+ ],
+ "pieces": [
+  {
+   "s": 55,
+   "e": 95,
+   "cx": 0.3,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 183,
+   "e": 200,
+   "cx": 0.3,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 215,
+   "e": 240,
+   "cx": 0.3,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 365,
+   "e": 395,
+   "cx": 0.3,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 400,
+   "e": 420,
+   "cx": 0.3,
+   "zoom": "in",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "FIVE STARS ON THE BEACH"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "NO ROADS NEEDED"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE POLICE KEEP COMING"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "IT GETS WILDER"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "AND THEN THE AMBULANCE"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

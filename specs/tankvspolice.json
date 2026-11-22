@@ -1,0 +1,104 @@
+{
+ "slug": "tankvspolice",
+ "kind": "short",
+ "src": "work/-UuHA1h-Cf8.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "TANK VS",
+  "THE POLICE"
+ ],
+ "pieces": [
+  {
+   "s": 383.5,
+   "e": 385.5,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 338,
+   "e": 352,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 377,
+   "e": 391,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 511,
+   "e": 525,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 1.6,
+   "text": "BOOM"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.0,
+   "text": "ONE TANK"
+  },
+  {
+   "p": 1,
+   "t": 4,
+   "d": 2.0,
+   "text": "SIX STARS"
+  },
+  {
+   "p": 1,
+   "t": 8,
+   "d": 2.4,
+   "text": "COPS EVERYWHERE"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 2.4,
+   "text": "THEY KEEP COMING"
+  },
+  {
+   "p": 2,
+   "t": 7,
+   "d": 2.6,
+   "text": "EXPLOSIONS EVERYWHERE"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 2.2,
+   "text": "STILL STANDING"
+  },
+  {
+   "p": 3,
+   "t": 7,
+   "d": 2.6,
+   "text": "BUT FOR HOW LONG"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

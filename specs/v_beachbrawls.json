@@ -1,0 +1,95 @@
+{
+ "slug": "v_beachbrawls",
+ "kind": "video",
+ "src": "work/gPCd2SD5X3k.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.9,
+ "title": [
+  "BEACH BRAWLS",
+  "NPCS FIGHT BACK"
+ ],
+ "pieces": [
+  {
+   "s": 80,
+   "e": 100,
+   "cx": 0.3,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 413,
+   "e": 445,
+   "cx": 0.3,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 698,
+   "e": 726,
+   "cx": 0.3,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 760,
+   "e": 780,
+   "cx": 0.3,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 814,
+   "e": 832,
+   "cx": 0.3,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 845,
+   "e": 860,
+   "cx": 0.3,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "WELCOME TO OCEAN BEACH"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "IT STARTS WITH A PUSH"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "ROUND TWO"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE CROWD WATCHES"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "AND KEEPS GOING"
+  },
+  {
+   "p": 5,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE BEACH SETTLES DOWN"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}

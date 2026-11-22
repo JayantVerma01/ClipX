@@ -1,0 +1,28 @@
+# Secrets: Google sign-in, tokens, browser cookies. NEVER commit.
+secrets/
+docs/
+
+# Videos and everything generated
+output/
+other/
+input/
+factory/
+work/*
+!work/fl/
+work/fl/*
+!work/fl/*.py
+!work/fl/*.ps1
+*.mp4
+*.wav
+
+# This channel's own state and private notes
+queue.json
+rights.json
+HANDOFF.md
+
+# Logs and scratch
+*.log
+*.out
+batch*.ps1
+__pycache__/
+*.pyc

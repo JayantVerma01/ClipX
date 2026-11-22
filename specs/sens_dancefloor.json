@@ -1,0 +1,100 @@
+{
+ "slug": "sens_dancefloor",
+ "kind": "short",
+ "src": "work/RSy0UkR0JBs.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "DANCE FLOOR",
+  "TURNS STEAMY"
+ ],
+ "vcrop": 0.8,
+ "vy": 0.12,
+ "pieces": [
+  {
+   "s": 231.0,
+   "e": 233.0,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 181,
+   "e": 190,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 196,
+   "e": 208,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 229,
+   "e": 242,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 2.0,
+   "text": "WAIT FOR IT"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.4,
+   "text": "IT STARTS WITH A DANCE"
+  },
+  {
+   "p": 1,
+   "t": 5,
+   "d": 2.4,
+   "text": "SHE PULLS HIM CLOSER"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 2.4,
+   "text": "THE MUSIC GETS LOUDER"
+  },
+  {
+   "p": 2,
+   "t": 7,
+   "d": 2.8,
+   "text": "NO ONE IS WATCHING"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 2.6,
+   "text": "THEN THE LIGHTS TURN RED"
+  },
+  {
+   "p": 3,
+   "t": 8,
+   "d": 3.2,
+   "text": "THE NIGHT IS JUST BEGINNING"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

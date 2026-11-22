@@ -1,0 +1,95 @@
+{
+ "slug": "sens_nightclub",
+ "kind": "short",
+ "src": "work/boNEXq35Hg0.mp4",
+ "tag": "GTA 6",
+ "layout": "tall",
+ "title": [
+  "NINE1NINE",
+  "AFTER DARK"
+ ],
+ "vcrop": 0.8,
+ "vy": 0.12,
+ "pieces": [
+  {
+   "s": 145.5,
+   "e": 147.5,
+   "speed": 0.5,
+   "cx": 0.5,
+   "zoom": "in"
+  },
+  {
+   "s": 159,
+   "e": 171,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "whip"
+  },
+  {
+   "s": 178,
+   "e": 192,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 205,
+   "e": 214,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade",
+   "src": "work/RSy0UkR0JBs.mp4"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.3,
+   "d": 2.0,
+   "text": "FEEL THE BASS"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 2.4,
+   "text": "VICE CITY NIGHTLIFE"
+  },
+  {
+   "p": 1,
+   "t": 6,
+   "d": 3.0,
+   "text": "CLOSER AND CLOSER"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 2.6,
+   "text": "THEN THE VIP LOUNGE"
+  },
+  {
+   "p": 2,
+   "t": 7,
+   "d": 3.4,
+   "text": "WHAT HAPPENS HERE STAYS HERE"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3.0,
+   "text": "THE NIGHT NEVER ENDS"
+  }
+ ],
+ "flash": [
+  {
+   "p": 1,
+   "t": 0.0
+  }
+ ],
+ "sfx": [
+  {
+   "p": 0,
+   "t": 0.05,
+   "k": "impact"
+  }
+ ]
+}

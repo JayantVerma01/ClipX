@@ -1,0 +1,82 @@
+{
+ "slug": "v_policechase",
+ "kind": "video",
+ "src": "work/9TLwyuGDSmI.mp4",
+ "tag": "GTA 6",
+ "vcrop": 0.95,
+ "title": [
+  "OPEN WORLD",
+  "POLICE CHASE"
+ ],
+ "pieces": [
+  {
+   "s": 96,
+   "e": 135,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 140,
+   "e": 160,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 186,
+   "e": 206,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  },
+  {
+   "s": 330,
+   "e": 350,
+   "cx": 0.5,
+   "zoom": "out",
+   "tr": "fade"
+  },
+  {
+   "s": 466,
+   "e": 490,
+   "cx": 0.5,
+   "zoom": "in",
+   "tr": "fade"
+  }
+ ],
+ "caps": [
+  {
+   "p": 0,
+   "t": 0.5,
+   "d": 3,
+   "text": "THE CHASE BEGINS"
+  },
+  {
+   "p": 1,
+   "t": 0.5,
+   "d": 3,
+   "text": "COPS ON ALL SIDES"
+  },
+  {
+   "p": 2,
+   "t": 0.5,
+   "d": 3,
+   "text": "STRAIGHT THROUGH TRAFFIC"
+  },
+  {
+   "p": 3,
+   "t": 0.5,
+   "d": 3,
+   "text": "STILL NO ESCAPE"
+  },
+  {
+   "p": 4,
+   "t": 0.5,
+   "d": 3,
+   "text": "TOTAL CHAOS"
+  }
+ ],
+ "flash": [],
+ "sfx": []
+}
